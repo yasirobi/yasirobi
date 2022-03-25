@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **New Technologies.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](on progress)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **obi.3965@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play cricket and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -44,16 +44,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/obi-yasir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="obi-yasir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=obi-yasir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/yasirobi/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yasirobi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirobi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/obi-yasir/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=obi-yasir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obi-yasir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yasirobi/github-readme-stats"><img alt="yasirobi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasirobi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yasirobi/github-readme-stats"><img alt="yasirobi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirobi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/obi-yasir/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=obi-yasir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/yasirobi/github-readme-activity-graph"><img alt="yasirobi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yasirobi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,6 +78,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=obi-yasir">
+    <img src="https://komarev.com/ghpvc/?username=yasirobi">
 </a>
-<a href="https://github.com/obi-yasir?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/yasirobi?tab=followers"><img src="https://img.shields.io/github/followers/yasirobi?label=Followers&style=social" alt="GitHub Badge"></a>
